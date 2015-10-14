@@ -8,7 +8,11 @@
     ],
     "pluginsConfig": {
         "shortName": "Openmindclub"
+{
 "plugins": ["disqus"],
-  “pluginsConfig”: {
-  "disqus": {
-   “shortName":” “jessicamiejiu”
+“pluginsConfig”: {
+"disqus": {
+ “shortName":” “NAME-FROM-DISQUS”
+  }
+}
+}
