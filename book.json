@@ -10,4 +10,11 @@
         "shortName": "Openmindclub"
     }
 }
-
+{
+"plugins":["disqus"],
+“pluginsConfig”: {
+"disqus": {
+ “shortName":” “jessicamiejiu”
+  }
+}
+}
