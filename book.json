@@ -7,12 +7,5 @@
         "disqus"
     ],
     "pluginsConfig": {
-        "shortName": "Openmindclub"
-{
-"plugins": ["disqus"],
-“pluginsConfig”: {
-"disqus": {
- “shortName":” “NAME-FROM-DISQUS”
-  }
-}
-}
+        "shortName": "jessicamiejiu"
+
