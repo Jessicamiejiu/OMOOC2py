@@ -1,4 +1,4 @@
-1,模块和类
+2W notes:模块和类
 1.1模块
 模块类似于将一种东西对应到另外一种的方式，即“从Y获取X"的概念，主要特性如下：
 1，模块是包含函数和变量的Python文件
@@ -11,3 +11,10 @@
 
 继承了object的类是新式类，由于他们都是object的派生类，便于统一操作。py2由于一些类不继承object，就弄了一些内置函数
 https://docs.python.org/release/2.2.3/whatsnew/sect-rellinks.html
+
+3w notes: Socket,UDP
+1，Python中如何获得IP地址
+import socket
+socket.gethostname()
+socket.gethostbyname(socket.getfqdn())
+
