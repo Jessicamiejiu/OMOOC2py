@@ -17,4 +17,6 @@ https://docs.python.org/release/2.2.3/whatsnew/sect-rellinks.html
 import socket
 socket.gethostname()
 socket.gethostbyname(socket.getfqdn())
+2,UDP:User Datagram protocol.用户数据报协议。
+它与TCP协议一样用于处理数据包，是一种无连接的协议。在OSI模型中，在第四层——传输层，处于IP协议的上一层。UDP有不提供数据包分组、组装和不能对数据包进行排序的缺点，也就是说，当报文发送之后，是无法得知其是否安全完整到达的。
 
