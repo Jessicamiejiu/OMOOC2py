@@ -19,4 +19,17 @@ socket.gethostname()
 socket.gethostbyname(socket.getfqdn())
 2,UDP:User Datagram protocol.用户数据报协议。
 它与TCP协议一样用于处理数据包，是一种无连接的协议。在OSI模型中，在第四层——传输层，处于IP协议的上一层。UDP有不提供数据包分组、组装和不能对数据包进行排序的缺点，也就是说，当报文发送之后，是无法得知其是否安全完整到达的。
+4W notes: Bottle,HTTP协议
+1,HTTP超文本传输协议（HTTP，HyperText Transfer Protocol)。
+1.1Web服务端与客户端通过HTTP协议传输数据，相当于两个人交流的语言。
+1.2 HTTP主要方法：客户端通过以下方法与服务端交互
+GET-从服务器上获取一个资源（一般是网页）
+POST-向服务器提交数据（可能会创建一个新的资源）
+PUT-向服务器提交数据
+DELET-删除指定资源
+HEAD-只请求网页的头部信息
+
+
+
+
 
