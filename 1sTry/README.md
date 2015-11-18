@@ -34,8 +34,12 @@ HEAD-只请求网页的头部信息
 -304 未修改，一般用于缓存
 -403禁止访问
 -
-
-2，API
+2,URL(Uniform Resoure Locator:统一资源定位器)是WWW页的地址
+3,Bottle:
+路由（Routing）：将请求映射到函数，可以创建十分优雅的 URL
+模板（Templates）：Pythonic 并且快速的 Python 内置模板引擎，同时还支持 mako, jinja2, cheetah 等第三方模板引擎
+工具集（Utilites）：快速的读取 form 数据，上传文件，访问 cookies，headers 或者其它 HTTP相关的 metadata
+服务器（Server）：内置HTTP开发服务器，并且支持 paste, fapws3, bjoern, Google App Engine, Cherrypy 或者其它任何 WSGI HTTP 服务器
 
 
 
