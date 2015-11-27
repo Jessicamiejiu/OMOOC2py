@@ -40,7 +40,8 @@ HEAD-只请求网页的头部信息
 模板（Templates）：Pythonic 并且快速的 Python 内置模板引擎，同时还支持 mako, jinja2, cheetah 等第三方模板引擎
 工具集（Utilites）：快速的读取 form 数据，上传文件，访问 cookies，headers 或者其它 HTTP相关的 metadata
 服务器（Server）：内置HTTP开发服务器，并且支持 paste, fapws3, bjoern, Google App Engine, Cherrypy 或者其它任何 WSGI HTTP 服务器
-
+4W notes: PaaS,
+1,PaaS:Platform-as-a-Service的缩写，平台or服务。
 
 
 
